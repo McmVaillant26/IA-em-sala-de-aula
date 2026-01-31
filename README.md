@@ -39,3 +39,97 @@ Explique ferramentas utilizadas, desafios (ética/privacidade), soluções, ganh
 
 README.md (este arquivo) - título, descrição do desafio, resumo do plano, ferramentas de IA, links externos,
 reflexão final e créditos
+
+3) Estrutura do repositório (sugerida)
+
+Projeto-Plano-Aula-IA/
+
+Plano_de_Aula_IA.pdf
+
+Apresentação_Aula_IA.pptx
+
+Reflexão_IA.docx
+
+README.md
+
+4) Resumo do plano de aula (preencha)
+
+Tema/Disciplina: [ex.: Frações 6º ano]
+
+Objetivos de aprendizagem: [marcadores]
+
+Conteúdo programático: [marcadores]
+
+Metodologia e recursos (incluindo IA): [marcadores]
+
+Avaliação e critérios: [marcadores]
+
+Diferenciação/Adaptações: [estratégias para atender perfis distintos]
+
+Transparência de IA: use comentários/revisões no Word ou marcações no PDF para destacar os trechosassistidos/gerados por IA e a revisão humana aplicada
+
+5) Personalização para 2 perfis de alunos (obrigatória)
+
+Descreva como o plano contempla pelo menos dois perfis:
+
+Perfil A: [características] → adaptações em conteúdo/atividade/avaliação
+
+Perfil B: [características] → adaptações em conteúdo/atividade/avaliação
+
+Exemplos de perfis: dificuldades de leitura; alto interesse no tema; preferência visual; preferência auditiva; necessidades de ritmo diferenciado; acesso limitado à tecnologia etc.
+
+6) Internacionalização de um trecho (obrigatória)
+
+Inclua um pequeno trecho do material com revisão inteligente e tradução rápida:
+
+Trecho original: [colar ou linkar]
+
+Trecho traduzido: [colar ou linkar]
+
+Observações de inclusão linguística: [como o trecho pode apoiar estudantes multilíngues]
+
+7) Ecossistema de IA - fluxo sugerido
+
+1. ChatGPT → gerar esqueleto do plano; rascunhar atividades; criar variações para perfis distintos.
+
+2. Copilot no Word → refinar linguagem, formatar o documento, revisar e traduzir o pequeno trecho.
+
+3. Copilot no PowerPoint → criar slides que sintetizem conteúdo e engajem a turma.
+
+4. Revisão humana → checagem de precisão, alinhamento curricular, direitos autorais e adequação do nível de leitura.
+
+Dica: manter prompts reutilizáveis ​​em um .docx /.txt (ex.: "Estrutura de objetivos", "Adaptar para perfil visual", "Reescrever em linguagem simples", "Gerar slides - resumir por seção").
+
+8) Ética, proteção de dados e autoria
+
+Privacidade/LGPD: não compartilhar dados pessoais; anonimizar exemplos (nomes, imagens, localização).
+
+Autoria e fontes: citar referências; evitar plágio; verificar originalidade quando necessário
+
+Transparência: documente o que a IA ocupou e o que você revisou/ajustou.Limites e visões: faça leitura crítica das saídas da IA ​​e ajuste para o contexto pedagógico real
+
+9) Reflexão (resumida aqui ou em arquivo dedicado)
+
+Ferramentas de IA utilizadas e por que foram escolhidas.
+
+Desafios (especialmente ética/privacidade) e soluções adotadas.
+
+Otimização do tempo: o que acelerou? o que exigiu mais curadoria humana?
+
+Personalização: efeitos das adaptações nos diferentes perfis.
+
+Lições aprendidas e próximos passos.
+
+
+10) Como entregar no GitHub (passo a passo)
+
+1. Acesse o GitHub e clique em New repository.
+
+2. Dê um nome ao repositório (ex.: Projeto-Plano-Aula-IA) e deixe como público.
+
+3. Faça upload de Plano_de_Aula_IA.pdf .docx, Apresentacao_Aula_IA.pptx (ou inclua o link no README), Reflexao_IA.docx.pdf e este README.md.
+
+4. Confira os nomes dos arquivos exatamente como acima.
+
+5. Clique em Commit changes e compartilhe o link do repositório.
+
